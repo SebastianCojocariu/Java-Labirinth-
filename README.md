@@ -1,7 +1,7 @@
 Sebastian Cojocariu 321CB UPB ACS					
 
 
-				                          	Java Labirinth
+				               Java Labirinth
 
 package cellTypes:
 -O clasa Cell de baza care contine campurile: 
